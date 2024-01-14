@@ -10,5 +10,5 @@ export default defineConfig({
       "Cross-Origin-Opener-Policy": "same-origin",
     },
   },
-  base: "/study-webcontainers-react-ts/",
+  base: "/study-webcontainers-react-ts-vite/",
 });
